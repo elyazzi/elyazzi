@@ -2,7 +2,7 @@
   Programming/Software Development is a dear hobby of mine that keeps me active even during my darkest times.
 
 - 👀 I’m interested in all things software development. 
-  I like to mess around with automation scripts, but have been involved in serious projects too, mostly helping with Unity3D game development.
+  I like to mess around with automation scripts and Unity3D.
   
 - 🌱 I’m currently learning the ins and outs of python and tackling whatever interesting problems I have coming my way!
 
