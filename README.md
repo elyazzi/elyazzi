@@ -9,4 +9,4 @@
 
 - 💞️ I’m looking to collaborate on any projects that are within my skillset
 
-- 📫 You can reach me via email - tyyppilation2@gmail.com
+- 📫 You can reach me via email - 16652204+elyazzi@users.noreply.github.com
