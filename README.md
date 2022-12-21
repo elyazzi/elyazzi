@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in all things software development. 
   I like to work with convenience scripts (python) and Unity3D (C#).
-  I also do music programming with JSFX, ReaScript and C++ with JUCE
+  I also do audio programming with JSFX, ReaScript and C++
   
 - 🌱 I’m currently learning the ins and outs of C++ and JUCE.
 
